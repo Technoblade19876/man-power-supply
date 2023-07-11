@@ -1,0 +1,40 @@
+#matter {
+    text-align: justify;
+}
+
+.menu{
+    list-style: none;
+    position: fixed;
+    background:transparent;
+    width: 100%;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 100;
+    cursor: pointer;
+    padding-bottom: 50px;
+}
+
+.link{
+    display: inline;
+    padding-top: 9px;
+    padding-left: 19px;
+    padding-bottom: 9px;
+    padding-right: 19px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.img_btn{
+    width: 200px;
+    height: 200px;
+}
+
+#button_layout h5 {
+    text-justify: auto;
+    font-size: 20px
+}
+
+#contact{
+    background-color: black;
+    color: yellow;
+}
