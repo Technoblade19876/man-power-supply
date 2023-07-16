@@ -46,3 +46,14 @@
     width: 1500px;
     height: fit-content;
 }
+
+.buttonspacing{
+color: white;
+background-color: white;
+border-color: white
+}
+
+.image{
+    width: 400px;
+    height: 300px;
+}
